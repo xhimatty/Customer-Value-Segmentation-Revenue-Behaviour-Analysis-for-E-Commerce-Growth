@@ -1,5 +1,13 @@
 # Customer Value Segmentation & Revenue Behaviour Analysis for E-Commerce Growth
 
+### 🧰 Tools and Technologies 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A6C95?style=for-the-badge&logo=seaborn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## Executive Summary
 This project was done to support strategic decision-making for an e-commerce business with limited customer insights and unclear revenue drivers. I analyzed and transformed 42,992 rows of raw transactional data after taking necessary steps to check for missing values, nulls, outliers, to uncover patterns in purchase behaviour, segment customer value using RFM scoring, and investigate performance across age brackets and countries. The analysis revealed key demographic segments, seasonal trends, and underperforming categories, helping to shape customer targeting, product strategy and retention efforts.
 
@@ -48,14 +56,6 @@ This project was done to support strategic decision-making for an e-commerce bus
 - Most customers prefer to pay with cash when the item is delivered, rather than using digital methods like cards or transfers. This may mean they don’t fully trust the online payment system or find it hard to use.
 
 ⸻
-
-### 🧰 Tools & Technologies
-
-	• Python: pandas, matplotlib, seaborn
-	
-	• Excel: Dashboards for non-technical stakeholders
-	
-	• Jupyter Notebook: Full analysis pipeline and data transformation
 
 ### Techniques:
 
