@@ -75,8 +75,3 @@ Data validation (inconsistencies, redundancies, missing values, nulls, outliers)
 The key findings from this analysis are summarised in an Excel dashboard.  
 👉 [View the dashboard](https://1drv.ms/x/c/c0f0487955994bce/ESE9iSuP0wVPvGAcb-4fvjsBO3Nmc5PlIG0ocoJ5YCjhQg)
 
-### 📬 Contact
-
-Want to collaborate or discuss this analysis? 
-[📧Email](mathiasmichael2@gmail.com)
-[LinkedIn](linkedin.com/in/michael-matty)
